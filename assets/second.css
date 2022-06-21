@@ -1,0 +1,70 @@
+body { margin: 0px; padding: 0px; background-color: black; font-family: Arial; }
+
+#body {width: 1000px; margin-left: auto; margin-right: auto; padding-bottom: 27px; background: url('second-background.png'); position: relative;}
+#title { color: white; margin-left: 358px; padding-right: 150px; padding-top: 20px; font-family: Arial; font-size: 25px; position: relative;}
+#main-back-link { position: absolute; right: 20px; top: 30px; font-size: 15px;}
+#main-back-link a {color: white; text-decoration: none;}
+#main-back-link a:hover {color: white; text-decoration: underline;}
+#min-height {height: 647px; font-size: 1px; width: 5px; float: right;}
+#content- {
+  margin-bottom:47px;
+}
+#content {margin-left: 300px; margin-right: 22px; margin-top: 8px;  background-color: white; position: relative; }
+.clear {clear: both}
+
+#text {position: absolute; top: 36px; left: 55px; font-size: 13px;}
+#mozaic {padding: 15px; padding-top: 36px; 
+
+  min-height:500px;
+  height:auto !important; /* IE fuck hack */
+  height:500px;
+}
+
+
+#menu-new {position:absolute; width: 360px; height: 670px;}
+
+#menu {position: absolute; top: 0px; left: 0px;}
+
+#about-me {position:absolute; width: 360px; height: 670px; display:none; }
+#about-friends {position:absolute; width: 360px; height: 670px; display:none; }
+#about-parents {position:absolute; width: 360px; height: 670px; display:none; }
+#travels {position:absolute; width: 360px; height: 670px; display:none; }
+#blog {position:absolute; width: 360px; height: 670px; display:none; }
+
+#menu-gif {position:absolute; width: 360px; height: 670px;}
+
+.menu_to {text-transform: uppercase; letter-spacing: 0.5pt; font-weight: bold;}
+.menu_to a {color: white;}
+.menu_to a:hover {color: white;}
+
+.travel-link {font-size: 20px; font-style: italic; font-weight: bold;}
+.travel-link a {color: black;}
+
+#blog-text {padding-left: 23px; font-size: 13px;}
+#blog-text h3 a {text-decoration: none; color: black;}
+#blog-text h3 a:hover {text-decoration: none; color: black;}
+#blog-text .date {text-align: right; font-style: italic; color: #777; margin-right: 20px;}
+
+.back-link {font-size: 16px;}
+
+/*
+     FILE ARCHIVED ON 11:06:55 Mar 13, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:37:51 Jun 21, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 1651.761
+  exclusion.robots: 0.082
+  exclusion.robots.policy: 0.074
+  cdx.remote: 0.058
+  esindex: 0.008
+  LoadShardBlock: 164.77 (3)
+  PetaboxLoader3.datanode: 187.029 (5)
+  CDXLines.iter: 15.404 (3)
+  PetaboxLoader3.resolve: 104.107 (3)
+  load_resource: 276.01 (2)
+*/

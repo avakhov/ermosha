@@ -1,0 +1,34 @@
+body { margin: 0px; padding: 0px; background-color: black; }
+
+#body {width: 1000px; height: 700px; margin: auto;}
+#background {position: absolute; width: 1000px; height: 700px;}
+
+#about-me {position:absolute; width: 1000px; height: 700px; display: none; }
+#about-friends {position:absolute; width: 1000px; height: 700px; display: none; }
+#about-parents {position:absolute; width: 1000px; height: 700px; display: none; }
+#travels {position:absolute; width: 1000px; height: 700px; display: none; }
+#blog {position:absolute; width: 1000px; height: 700px; display: none; }
+
+#main-menu {position:absolute; width: 1000px; height: 700px;}
+
+/*
+     FILE ARCHIVED ON 14:08:39 Jan 13, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 09:38:19 Jun 21, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 961.002
+  exclusion.robots: 0.089
+  exclusion.robots.policy: 0.082
+  cdx.remote: 0.061
+  esindex: 0.008
+  LoadShardBlock: 918.948 (3)
+  PetaboxLoader3.datanode: 1023.073 (5)
+  CDXLines.iter: 13.332 (3)
+  load_resource: 1364.35 (2)
+  PetaboxLoader3.resolve: 1228.014 (2)
+*/
